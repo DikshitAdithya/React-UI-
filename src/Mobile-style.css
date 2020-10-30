@@ -1,0 +1,24 @@
+@media only screen and (max-width:768px){
+    .moveup{
+      padding-bottom: 2vmin;
+    }
+    .team{
+        display: flex;
+        flex-direction: column;
+        align-items: center;
+    }
+    .carousel-inner{
+        width: max-content;
+    }
+}
+@media only screen and (max-width:375px){
+    .carousel-item{
+        margin-left:-14vmin;
+        
+    }
+}
+
+
+
+
+
